@@ -1,6 +1,6 @@
 DESCRIÇÃO
 
-- Projeto de um jogo em typescript para a disciplina de Algotimos I;
+- Projeto de um jogo em typescript para a disciplina de Algoritmos I;
 - Adicionado ao github como atividade para a disciplina de Engenharia de Software II, da faculdade SENAC de Pelotas.
 
 
